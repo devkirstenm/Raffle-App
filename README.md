@@ -26,4 +26,4 @@ Clicking the "draw" button should display the winner's name with a dog and gift 
 I want you to make the CSS and JavaScript code easy to understand, even for non-coders. Remember to add code comments above each CSS rule and each line of JavaScript.
 
 ### Prompt 3
-Please use Google Material Icons to add a dog icon inside the <h1>.
+Please use Google Material Icons to add a dog icon inside the h1.
