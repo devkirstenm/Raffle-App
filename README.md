@@ -4,7 +4,7 @@ This project is part of the Scrimba course [AI Coding for Non-Coders](https://sc
 
 ## Description 📝
 
-Ruff Ruff Raffle App is a web application that allows .. . The application is built using HTML, CSS, and JavaScript.
+Ruff Ruff Raffle App is a web application that allows users to enter into a raffle. The participants names are entered into the form and then a winner is drawn from the list. The application is built using HTML, CSS, and JavaScript.
 
 ## ChatGPT Prompts 🤖
 Using conversational prompts
